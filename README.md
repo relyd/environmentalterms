@@ -2,7 +2,13 @@
 
 A curated list of environmental terms
 
-Web scraped or contributed lists of terms and words. Deduplicated.
+Web scraped or contributed lists of terms and words. 
+
+# todo
+
+- Cleanup : tokenize
+- CI deduplicate after adding new list
+- remove any mime type indication
 
 # Goal
 
