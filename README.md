@@ -18,7 +18,7 @@ Create a general environmental taxonomy and keyword list
 
 - https://www.eea.europa.eu/themes : approx 9000 terms
 - https://portals.iucn.org/library/search/node : approx 3070 terms keyword list and broad subject taxonomy as fetched from IUCN Library system January 2022 (unofficial/not authorative)
-- Yale e360 topics 
+- https://e360.yale.edu/topics/ Yale e360 topics 
 
 # Potential Sources
 
