@@ -1,18 +1,18 @@
 # Environmental Terms
 
-A curated list of environmental terms
+Goal : create a list of environmental terms to be used for keyword lists or taxonomies
 
-Web scraped or contributed lists of terms and words. 
+Sources are either web scraped, API/XHR fetched or contributed lists of terms. 
 
 # Todo
 
-- Cleanup : tokenize
+- Cleanup
+- Tokenize
 - CI deduplicate after adding new list
 - remove any mime type indication
+- remove any person or organisation reference
+- think about multilingual content
 
-# Goal
-
-Create a general environmental taxonomy and keyword list
 
 # Sources all source files are raw greps
 
